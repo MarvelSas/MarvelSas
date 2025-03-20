@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Marcin Kubisiak👋
+
+### About me
+
+I'm a young person which try to become a programmer and has a long story with many diffrent programing languages. I decided to on JAVA togeher with Spring boot, because I'm goint to be backend developer. I like to see result of my work, so that why I'm also has a little bit of expierence in Angular.
 
 <!--
 **MarvelSas/MarvelSas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
