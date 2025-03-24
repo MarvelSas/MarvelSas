@@ -36,6 +36,6 @@ I'm a young person who tries to become a programmer and has a long story with ma
 
 
 
-##  🔍You can find also here
+##  🔍You can find me also here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-kubisiak-328a4b336/)
