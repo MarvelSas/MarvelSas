@@ -34,7 +34,18 @@ I'm a young person who tries to become a programmer and has a long story with ma
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+##  📱My projects
 
+Below I have prepared a list of my projects with a short description for each of them. For more detail, I encourage you to visit their repository, which you can find in the next section.
+
+### ScoutMate
+This project was build to support the scout community, which has a lack of good applications. The project was focused on simplifying the most time-consuming processes in the scout community.
+
+### VM-COM
+E-commerce is everything today, so to better understand the challenges which are facing developers of this type of application, I have decided to build with my friend an E-commerce application to understand the challenges and technologies needed for E-commerce.
+
+### MyF
+MyF is a live chat application based on WebSocket communication. In this project, I focus on understanding how to work with WebSocket and what are the best practices to work with to implement Websocket for applications. (Pending)
 
 ##  🔍You can find me also here
 
